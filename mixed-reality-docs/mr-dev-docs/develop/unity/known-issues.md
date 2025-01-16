@@ -1,8 +1,8 @@
 ---
 title: Known issues in Unity versions and packages
 description: Stay up to date on the known issues in Unity versions and packages.
-author: vtieto
-ms.author: vinnietieto
+author: AMollis
+ms.author: amollis
 ms.date: 01/13/2023
 ms.topic: article
 
@@ -23,7 +23,6 @@ Some versions of Unity or Unity plugins contain known incompatibilities blocking
 | Blocking&nbsp;issues | Status&nbsp;&&nbsp;Last&nbsp;Update | &nbsp;&nbsp;Versions&nbsp;with&nbsp;issue&nbsp;&nbsp; | &nbsp;&nbsp;Mitigation&nbsp;&nbsp; |
 | :----------- | :----- | :--------------: | :--------------: |
 | HL2 apps using DirectX 12 in Unity exhibits worse rendering performance than apps using DirectX 11. Unity 6 defaults to DirectX 12, causing unexpected performance degradation. | **Investigating:**<br />2024/05/23 | Unity 2021.3.0f1 to Unity 6000.\*.\* <br/> with DirectX 12 | Avoid using DirectX 12. In Unity go to Project Settings > Player > Other Settings > Uncheck Auto Graphics API > Add Direct3D11 > Remove Direct3D12 |
-| An HL2 app importing both MRTK3 and Azure Spatial Anchors may present 'Guid for asset conflicts with' errors when the ARFoundation package version doesn't match the imported ARSubsystems version.|||When using ARFoundation 5.x+, manually add com.unity.xr.arsubsystems version 5.0.2 to the project's Package Manager. You may see a warning message that states the ARSubsystems has been deprecated, but this message can be ignored. |
 
 ## Resolved blocking issues
 

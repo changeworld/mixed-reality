@@ -126,5 +126,3 @@ You can always go back to the [Unity development checkpoints](unity-development-
 * [Spatial anchors](../../design/spatial-anchors.md)
 * [Persistence in Unity](./spatial-anchors-in-unity.md)
 * [Shared experiences in Unity](shared-experiences-in-unity.md)
-* [Azure Spatial Anchors](/azure/spatial-anchors)
-* [Azure Spatial Anchors SDK for Unity](/dotnet/api/Microsoft.Azure.SpatialAnchors)

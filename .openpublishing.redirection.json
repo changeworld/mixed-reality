@@ -13,6 +13,12 @@
 		},
 
 		{
+			"source_path": "mixed-reality-docs/mr-dev-docs/develop/unreal/unreal-azure-spatial-anchors.md",
+			"redirect_url": "mixed-reality-docs/mr-dev-docs/develop/unreal",
+			"redirect_document_id": false
+		},
+		
+		{
 			"source_path": "mixed-reality-docs/mr-dev-docs/whats-new/mr-dev-days-japan.md",
 			"redirect_url": "/windows/mixed-reality/whats-new/journey-to-mr-series",
 			"redirect_document_id": false

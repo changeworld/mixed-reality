@@ -8,9 +8,11 @@ ms.topic: article
 keywords: Mixed Reality, community, mvp, meetup
 ---
 
+
 # Mixed Reality Community
 
 At Microsoft, we believe having access to strong communities is essential for developers, platforms, and ecosystems to grow. Use the information below to take part in communities and meet some of the team members who are here to help you.
+
 
 ## Online Communities
 
@@ -21,7 +23,6 @@ At Microsoft, we believe having access to strong communities is essential for de
 |**Reddit WMR Headsets**|[WMR subreddit](https://www.reddit.com/r/WindowsMR/)|         |
 |**Reddit HoloLens**|[HoloLens subreddit](https://www.reddit.com/r/HoloLens/)|         |
 
-<br>
 
 ## Local Communities
 If you run a community that you would like included on this page, send an [email here](mailto:jemccull@microsoft.com) with the details
@@ -34,31 +35,6 @@ If you run a community that you would like included on this page, send an [email
 |**_Mixed Reality User Group - Netherlands_**|Netherlands|Rijswijk|[Link](https://www.mixug.com)|
 |**_VR Philippines_**|Philippines|N/A|[Link](https://www.facebook.com/vrphilippines/)|
 |**_XRLA_**|USA|Los Angeles|[Link](https://www.meetup.com/XRLA_Meetup/)|
-
-<br>
-
-## Microsoft MR Developer Ecosystem Team
-
-|Team Member|About|Location|Email|
-|---------|---------|---------|---------|
-|![Daniel Escudero](images/BiographyImages/DanielEscudero_270x270.jpg)</br>**Daniel Escudero**</br>*MR Academy Lead Designer*|Interactive designer, prototyper, and coder, specialized in Mixed Reality, with over 15 years of interaction design experience. Currently designing and prototyping new Mixed Reality interactions, while creating workshops and hackathons with San Francisco Bay Area partners and the MR, VR, and AR communities. Mentor and speaker for Mixed Reality Design at multiple MR, VR, and AR events and lectures.|San Francisco, CA|[Email](mailto:daescu@microsoft.com)|
-|<!-- ![Daniel Gonzalez](images/BiographyImages/) --></br>**Daniel Gonzalez**</br>*Program Manager II*| |Redmond, WA|[Email](mailto:dgonza@microsoft.com)|
-|<!-- ![Jane Fang](images/BiographyImages/) --></br>**Jane Fang**</br>*Principal Program Manager Lead*| |San Francisco, CA|[Email](mailto:jafang@microsoft.com)|
-|![Jesse McCulloch](images/BiographyImages/JesseMcCulloch270x270.png)</br>**Jesse McCulloch**</br>*Program Manager II*|Jesse is a Program Manager on the Mixed Reality Developer Ecosystem team at Microsoft. He's often found hanging out in developer Slack groups, on Twitter trying to keep up with everything going on in this rapidly growing space, or in a big metal tube flying through the air on his way to engage with developers in the real world.|Redmond, Wa|[Email](mailto:jemccull@microsoft.com)|
-|<!-- ![Jo Ryall](images/BiographyImages/) --></br>**Jo Ryall**</br>*Head of Marketing, SF Academy*| |San Francisco, CA|[Email](mailto:joryal@microsoft.com)|
-|![Nick Klingensmith](images/BiographyImages/NickKlingensmith_270x270.png)</br>**Nick Klingensmith**</br>*MR Academy Lead Engineer*|Nick is an experienced game developer specializing in tool development, graphics programming, MR, and Unity! With over 100 published games, he's worked on small arcade games, mobile high fidelity GPU pushing titles, all the way to massive networked social games. The tools he's published on the Unity Asset Store are also used in thousands of games, on just about every modern platform imaginable. Nick has collected most of the official Unity certifications, and also helped write them. Nick currently works for Microsoft as the lead engineer on the Mixed Reality Academy team in San Francisco.|San Francisco, CA|[Email](mailto:niklinge@microsoft.com)|
-
-</br>
-
-## Microsoft MR Design Team, Developer Experience
-
-|Team Member|About|Location|Email|
-|---------|---------|---------|---------|
-|![Yoon Park](images/BiographyImages/YoonPark_270x270.jpg)</br>**Yoon Park**</br>*Principal UX Designer*|Yoon is a designer, creative technologist, and author from Seoul, Korea. As a Principal UX Designer at Microsoft’s Mixed Reality design team, he's leading the design effort for the open-source Mixed Reality Toolkit(MRTK) project, Mixed Reality Design Labs(MRDL), and documentation. He shares his personal MR project design stories on [Medium](https://medium.com/@dongyoonpark/designing-type-in-space-for-hololens-2-4d926355d5b3). | Redmond, WA|[Twitter](https://twitter.com/cre8ivepark) [Medium](https://medium.com/@dongyoonpark) [LinkedIn](https://www.linkedin.com/in/cre8ivepark/) [Email](mailto:dongyoon.park@microsoft.com)|
-|![Cameron Micka](images/BiographyImages/CameronMicka_270x270.png)</br>**Cameron Micka**</br>*Senior Software Engineer*|Cameron Micka is a software engineer who takes pride in empowering developers to achieve their artistic and creative ambitions. Cameron joined Microsoft in 2016 after developing video games for nearly a decade at LucasArts Entertainment, Fun Bits Interactive, and his own startup. At Microsoft, Cameron’s role is to build tools for Mixed Reality developers and consult with partners and customers. | Redmond, WA|[Twitter](https://twitter.com/tcmicka) [Email](mailto:cameron.micka@microsoft.com)|
-
-</br>
-
 
 
 ## Azure Cloud Advocate Spatial Computing Team
@@ -74,9 +50,6 @@ The members listed here are the Cloud Advocates that work on the Spatial Computi
 |![Em Lazer-Walker](images/BiographyImages/em-lazerwalker_270x270.png)</br>**Em Lazer-Walker**</br>*Cloud Advocate*|Em (she/her or they/them) is a Cloud Advocate for Microsoft based in Toronto. She’s an artist/engineer who makes interactive art, experimental games, and open-source software tools to empower creativity. Most of her work focuses on using nontraditional interfaces to reframe everyday objects and spaces as playful experiences and to inspire people to become self-motivated learners. She’s built projects as far-flung as a site-specific generative poetry walk, a game played on 19th century telegraph hardware, and a commercial board game that uses Amazon Alexa. In the past, she’s worked at companies like Pivotal Labs and Etsy, on games and apps such as Words With Friends and Timehop, and as a researcher in the MIT Media Lab's Playful Systems research group. She’s passionate about fostering diverse and inclusive communities, and organizes game events such as the [Roguelike Celebration](https://roguelike.club/) and the annual [alt.ctrl.PARTY](https://alt.ctrl.party/).</br> As a game designer and installation artist, her work has been featured in places such as the Smithsonian American Art Museum and the Venice Architectural Biennale, and has been showcased at games events and spaces such as IndieCade (2016 finalist), alt.ctrl.GDC, Bit Bash, Come Out and Play, Babycastles, Different Games, and New York Toy Fair (2019 Game of the Year nominee).|[Twitter](https://twitter.com/lazerwalker)|
 |![Madoka Chiyoda](images/BiographyImages/madoka-chiyoda_270x270.jpg)</br>**Madoka Chiyoda**</br>*Cloud Advocate*|I joined Microsoft in 2016 after being a mobile app developer using Xamarin for years. I love both programming and drawing manga, so I'm doing both. Check my manga work [here](https://chomado.com/).|[Twitter](https://twitter.com/chomado)|
 |![Thomas Lewis](images/BiographyImages/thomas-lewis_270x270.png)</br>**Thomas Lewis**</br>*Cloud Advocate Lead*|Cloud Advocate in Microsoft's Developer Relations. Spatial Computing + Academic advocacy. Favorites: MR/AR/VR/XR, Web, Design & otters. Pronouns: he/him.|[Twitter](https://twitter.com/tommylee)|
-
-
-</br>
 
 ## Microsoft Mixed Reality MVPs
 

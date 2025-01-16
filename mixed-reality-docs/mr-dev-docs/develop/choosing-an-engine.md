@@ -74,12 +74,10 @@ There are several development paths you can take through our documentation. The 
 
 | Cloud services | Unity | Unreal | JavaScript | Custom engine <br>(using OpenXR) |
 |---|---|---|---|---|
-| Azure Spatial Anchors | ✔️ | ✔️ | ❌ | ✔️ |
-| Azure Object Anchors | ✔️ | ❌ | ❌ | ✔️ |
-| Azure Remote Rendering | ✔️ * | ❌ | ❌ | ✔️ * |
+| Azure Remote Rendering | ✔️ | ❌ | ❌ | ✔️ |
 
 > [!NOTE]
-> * Azure Remote Rendering is currently supported in apps using the legacy WinRT APIs (Windows XR plugin in Unity). ARR support for OpenXR apps is coming soon.
+> * Azure Remote Rendering (ARR) will be retired on September 30, 2025. [Learn more](https://azure.microsoft.com/updates/v2/azure-remote-rendering-retirement/).
 
 ## Next steps
 

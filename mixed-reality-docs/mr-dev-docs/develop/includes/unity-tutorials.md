@@ -1,7 +1,6 @@
 # [HoloLens 2](#tab/hl2)
 
 * [Getting started](/training/paths/beginner-hololens-2-tutorials/)
-* [Azure Spatial Anchors](/training/modules/azure-spatial-anchors-tutorials/)
 * [Multi-user capabilities](../unity/tutorials/mr-learning-sharing-01.md)
 * [Azure Speech Services](/training/modules/azure-speech-services-tutorials-mrtk/)
 * [Spatial audio](/training/modules/spatial-audio-tutorials-mrtk/)

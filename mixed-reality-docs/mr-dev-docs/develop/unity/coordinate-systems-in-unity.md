@@ -156,14 +156,6 @@ Sometimes anchors are located immediately. In this case, this isLocated property
 Anchor_OnTrackingChanged(anchor, anchor.isLocated);
 ```
 
-## Sharing anchors across devices
-
-Use <a href="/azure/spatial-anchors/overview" target="_blank">Azure Spatial Anchors</a> to create a durable cloud anchor from a local WorldAnchor, which your app can then locate across multiple HoloLens, iOS and Android devices.  By sharing a common spatial anchor across multiple devices, each user can see content rendered relative to that anchor in the same physical location.  This allows for real-time shared experiences.
-
-To get started building shared experiences in Unity, try out the 5-minute <a href="/azure/spatial-anchors/unity-overview" target="_blank">Azure Spatial Anchors Unity quickstarts</a>.
-
-Once you're up and running with Azure Spatial Anchors, you can then <a href="/azure/spatial-anchors/concepts/create-locate-anchors-unity" target="_blank">create and locate anchors in Unity</a>.
-
 ## Next Development Checkpoint
 
 If you're following the Unity development checkpoint journey we've laid out, you're in the midst of exploring the Mixed Reality core building blocks. From here, you can continue to the next building block:
@@ -185,5 +177,3 @@ You can always go back to the [Unity development checkpoints](unity-development-
 * [Spatial anchors](../../design/spatial-anchors.md)
 * [Persistence in Unity](./spatial-anchors-in-unity.md)
 * [Shared experiences in Unity](shared-experiences-in-unity.md)
-* <a href="/azure/spatial-anchors" target="_blank">Azure Spatial Anchors</a>
-* <a href="/dotnet/api/Microsoft.Azure.SpatialAnchors" target="_blank">Azure Spatial Anchors SDK for Unity</a>

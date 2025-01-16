@@ -10,10 +10,10 @@ keywords: HoloLens, synchronize, spatial anchor, transfer, multiplayer, view, sc
 
 # Local anchor transfers in DirectX
 
-In situations where you cannot use <a href="/azure/spatial-anchors" target="_blank">Azure Spatial Anchors</a>, local anchor transfers enable one HoloLens device to export an anchor to be imported by a second HoloLens device.
+Local anchor transfers enable one HoloLens device to export an anchor to be imported by a second HoloLens device.
 
 >[!NOTE]
->Local anchor transfers provide less robust anchor recall than <a href="/azure/spatial-anchors" target="_blank">Azure Spatial Anchors</a>, and iOS and Android devices are not supported by this approach.
+>iOS and Android devices are not supported by this approach.
 
 >[!NOTE]
 >The code snippets in this article currently demonstrate use of C++/CX rather than C++17-compliant C++/WinRT as used in the [C++ holographic project template](../develop/native/creating-a-holographic-directx-project.md).  The concepts are equivalent for a C++/WinRT project, though you will need to translate the code.

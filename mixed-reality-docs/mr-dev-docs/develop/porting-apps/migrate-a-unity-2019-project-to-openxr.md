@@ -1,8 +1,8 @@
 ---
 title: Migrate a Unity 2019 project to Unity 2020 + OpenXR
 description: Learn how to Migrate a Unity 2019 project to Unity 2020 + OpenXR.
-author: vtieto
-ms.author: vinnietieto
+author: AMollis
+ms.author: amollis
 ms.date: 03/07/2022
 ms.topic: article
 keywords: Unity, mixed reality, development, getting started, new project, Windows Mixed Reality, XR, mrtk, Unity 2020, Unity 2019, OpenXR, migrate
@@ -91,8 +91,6 @@ We're not quite ready to install OpenXR yet, but this next set of steps helps yo
 1. Select **Done**. This closes the Configurator.
 1. Close the **Project Settings** window, save your project, and then exit Unity.
 
-> [!NOTE]
-> When you use XR Plug-in Management in Unity 2019, Azure Spatial Anchors (ASA) isn't supported. If your project has ASA code, you won’t be able to test it until after you've installed Unity 2020. Otherwise, you should be able to validate your app at this stage.
 
 ## 4. Upgrade to Unity 2020.3 LTS
 
@@ -107,7 +105,6 @@ If you were previously using AR Foundation 2.0, the project will move you forwar
 
 Use the Mixed Reality Feature Tool to import the packages below.
 
-1. If you’re using ASA, open the **Azure Mixed Reality Services** drop-down and select the latest version of **Azure Spatial Anchors SDK Core** and **Azure Spatial Anchors SDK for Windows**.
 1. Open the **Platform Support** drop-down and select the latest version of **Mixed Reality OpenXR Plugin.**
 1. After the packages load, a **Warning** dialog appears asking if you want to restart the Unity editor in order to enable backends. Select **Yes.**
 1. When Unity reopens, the **MRTK Project Configurator** appears. Take a moment to read the explanations in the window, and then select **Apply**.

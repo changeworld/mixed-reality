@@ -295,8 +295,6 @@
           href: unreal/unreal-spatial-audio.md
         - name: Local Spatial Anchors
           href: unreal/unreal-spatial-anchors.md
-        - name: Azure Spatial Anchors
-          href: unreal/unreal-azure-spatial-anchors.md
         - name: Voice input
           href: unreal/unreal-voice-input.md
     - name: Best practices

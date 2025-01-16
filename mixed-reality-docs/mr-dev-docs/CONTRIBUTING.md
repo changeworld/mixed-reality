@@ -19,9 +19,7 @@ This page covers the basic steps and guidelines for contributing and links to Ma
 
 | Repository name | URL |
 | --- | --- |
-| Azure Object Anchors | [MicrosoftDocs/azure-docs/articles/object-anchors](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/object-anchors)
 | Azure Remote Rendering | [MicrosoftDocs/azure-docs/articles/remote-rendering](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/remote-rendering) |
-| Azure Spatial Anchors | [MicrosoftDocs/azure-docs/articles/spatial-anchors](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/spatial-anchors) |
 | HoloLens | [MicrosoftDocs/HoloLens](https://github.com/MicrosoftDocs/Hololens) |
 | Mixed Reality | [MicrosoftDocs/mixed-reality](https://github.com/MicrosoftDocs/mixed-reality) |
 | VR Enthusiasts Guide | [MicrosoftDocs/mixed-reality/enthusiast-guide](https://github.com/MicrosoftDocs/mixed-reality/tree/docs/enthusiast-guide) |

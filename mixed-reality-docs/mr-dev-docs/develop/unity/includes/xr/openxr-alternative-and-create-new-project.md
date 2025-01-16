@@ -2,12 +2,10 @@
 
 **Windows XR**: Microsoft doesn't recommend using the Windows XR plugin for any new projects in Unity 2020. Instead, you should use the Mixed Reality OpenXR plugin. However, if you're using Unity 2019 and you need AR Foundation 2.0 for compatibility with ARCore/ARKit devices, this plugin enables that support.
 
-   > [!IMPORTANT]
-   > Using this plugin in Unity 2019 is not compatible with Azure Spatial Anchors.
 
 **Legacy XR**:
 
-If you're still on Unity 2019 or earlier, Microsoft recommends using the Legacy Built-in XR support. While the Windows XR plugin is functional on Unity 2019, we don't recommend it  because it's not compatible with Azure Spatial Anchors on Unity 2019.
+If you're still on Unity 2019 or earlier, Microsoft recommends using the Legacy Built-in XR support. 
 
 If you're starting a new project, we recommend that you install Unity 2020 instead and use the Mixed Reality OpenXR plugin.
 

@@ -148,5 +148,4 @@ The standalone services listed below don't apply to Mixed Reality, but can be he
 
 ## See also
 
-* Azure Spatial Anchor tutorials for HoloLens 2 - [1 of 3 Getting started with Azure Spatial Anchors](/training/modules/azure-spatial-anchors-tutorials/2-get-started-with-azure-spatial-anchors)
 * Azure Speech Services tutorials for HoloLens 2 - [1 of 4 Integrating and using speech recognition and transcription](/training/modules/azure-speech-services-tutorials-mrtk/)

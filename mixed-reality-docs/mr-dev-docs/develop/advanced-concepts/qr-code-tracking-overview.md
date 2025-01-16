@@ -329,5 +329,4 @@ QR code smoothing process changed after 20H2, from pose smoothing to size smooth
 
 * [QR code tracking with native C++ and C# samples](../native/qr-code-tracking-cs-cpp.md)
 * [Coordinate systems](../../design/coordinate-systems.md)
-* [Azure Spatial Anchors](/azure/spatial-anchors/overview)
 * [HoloLens 2 Locatable camera overview](./locatable-camera-overview.md#hololens-2)

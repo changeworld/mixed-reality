@@ -71,13 +71,7 @@ If you want to test out your application on a HoloLens device while still in dev
 
 If this is your first time deploying an Unreal app to HoloLens 2, you'll need to [download supporting files](tutorials/unreal-uxt-ch6.md#packaging-and-deploying-the-app-via-device-portal) from the Epic Launcher. Once you have those files installed, you're ready to deploy from either the [Unreal editor](unreal-deploying.md) or the [Device Portal](tutorials/unreal-uxt-ch6.md#packaging-and-deploying-the-app-via-device-portal).
 
-### 5. Adding services
-
-At this point in your development journey, you might be looking to add services or for a helping hand with commercial deployment. Integrating [Azure Cloud Services](../mixed-reality-cloud-services.md) can level up your projects in a major way. We've compiled a few starting points for you to explore and expand your Mixed Reality knowledge.
-
-[!INCLUDE[](../includes/unreal-cloud-services-d365.md)]
-
-### 6. Low-code alternatives
+### 5. Low-code alternatives
 
 [!INCLUDE[](../includes/unreal-low-code.md)]
 
@@ -111,12 +105,10 @@ Developing for mixed reality comes with performance checkpoints that depend on t
 | [Sample apps](../features-and-samples.md) | 4.24 | ✔️ |
 | Mobile multi-View: Performance hits 60 fps | 4.25 | ✔️ |
 | Streaming from a packaged desktop app | 4.25.1 | ✔️ |
-| Azure Spatial Anchors for HoloLens 2 | 4.25 | ✔️ |
 | Mixed Reality UX Tools support | 4.25 | ✔️ |
 | Developer docs & tutorials | 4.25 | ✔️ |
 | System keyboard | 4.26 | ✔️ |
 | HoloLens Media Player plugin | 4.26 | ✔️ |
-| Azure Spatial Anchors for iOS and Android | 4.26 |
 | Microsoft OpenXR plugin with Microsoft vendor-specific OpenXR extensions | 4.26 | ✔️ |
 | Streaming from Azure to HoloLens 2 | 4.26 | ✔️ |
 | Windows App Certification Kit compliance for packaged apps | 4.26 | ✔️ |

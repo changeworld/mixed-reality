@@ -16,8 +16,6 @@ Spatial anchors save holograms in real-world space between application sessions 
 > [!NOTE]
 > Anchor functions from UE 4.25 are obsolete in 4.26 and should be replaced with newer ones. 
 
-> [!IMPORTANT]
-> Local anchors are stored on device, while Azure Spatial Anchors are stored in the cloud. If you're looking to use Azure cloud services to store your anchors, we have a document that can walk you through integrating [Azure Spatial Anchors](unreal-azure-spatial-anchors.md). Note that you can have local and Azure anchors in the same project without conflict.
 
 ## Prerequisites
 > [!IMPORTANT] 
@@ -71,12 +69,7 @@ When you're done with an anchor, you can clear individual anchors or the entire 
 
 ## Next Development Checkpoint
 
-If you're following the Unreal development journey we've laid out, you're in the midst of exploring the MRTK core building blocks. From here, you can continue to the next building block: 
-
-> [!div class="nextstepaction"]
-> [Azure Spatial Anchors](unreal-azure-spatial-anchors.md)
-
-Or jump to Mixed Reality platform capabilities and APIs:
+If you're following the Unreal development journey we've laid out, you're in the midst of exploring the MRTK core building blocks. From here, you can continue to the Mixed Reality platform capabilities and APIs:
 
 > [!div class="nextstepaction"]
 > [HoloLens camera](unreal-hololens-camera.md)
@@ -85,6 +78,5 @@ You can always go back to the [Unreal development checkpoints](unreal-developmen
 
 ## See also
 
-* [Azure Spatial Anchors](unreal-azure-spatial-anchors.md)
 * [Spatial anchors](../../design/spatial-anchors.md)
 * [Coordinate systems](../../design/coordinate-systems.md)

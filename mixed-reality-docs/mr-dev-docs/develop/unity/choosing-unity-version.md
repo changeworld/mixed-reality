@@ -62,9 +62,6 @@ Unity 2019.4 LTS has reached the end of Unity's two-year Long-Term Support windo
 
 If you need to use Unity 2019, you can use **Unity 2019 LTS with Legacy Built-in XR**.
 
-> [!NOTE]
-> Unity has deprecated its Legacy Built-in XR support as of Unity 2019.  While Unity 2019 does offer a new XR Plug-in framework, Microsoft is not currently recommending that path in Unity 2019 due to Azure Spatial Anchors incompatibilities with AR Foundation 2.  In Unity 2021, Azure Spatial Anchors is supported within the XR Plug-in framework.
-
 If you are developing apps for HoloLens (1st gen), these headsets remain supported in Unity 2019 LTS with Legacy Built-in XR for the full lifecycle of Unity 2019 LTS.
 
 ## Unity 2018.4 LTS
