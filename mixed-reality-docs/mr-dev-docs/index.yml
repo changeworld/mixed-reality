@@ -25,7 +25,7 @@ highlightedContent:
     # Card
     - title: What is Mixed Reality?
       itemType: concept
-      url: discover/mixed-reality.md 
+      url: discover/mixed-reality.md
     # Card
     - title: Introducing HoloLens 2
       itemType: overview

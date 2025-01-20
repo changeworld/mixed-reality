@@ -105,6 +105,7 @@
   "redirection_files": [
     ".openpublishing.redirection.json",
     ".openpublishing.redirection.mrtk2.json",
-    ".openpublishing.redirection.mrtk3.json"
+    ".openpublishing.redirection.mrtk3.json",
+    ".openpublishing.redirection.world-locking-tools.json"
   ]
 }

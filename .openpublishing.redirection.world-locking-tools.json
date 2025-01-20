@@ -1,0 +1,234 @@
+{
+  "redirections": [
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Architecture.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Architecture",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/FrozenWorldDLL.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/FrozenWorldDLL",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAlignmentManager.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAlignmentManager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAnchorManager.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAnchorManager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAttachmentPointManager.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IAttachmentPointManager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IFragmentManager.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/IFragmentManager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/WorldLockingManager.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Architecture/Managers/WorldLockingManager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/AttachmentPoints.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/AttachmentPoints",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/CoordinateSpaces.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/CoordinateSpaces",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Fragments.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Fragments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/Persistence.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/Persistence",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/RefitOperations.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/RefitOperations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/SessionOrigin.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/SessionOrigin",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/Advanced/SpacePins.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/Advanced/SpacePins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/AdvancedConcepts.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/AdvancedConcepts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts/BasicConcepts.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts/BasicConcepts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Concepts.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Concepts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/GettingStartedWithWorldLocking.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/GettingStartedWithWorldLocking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/CodingConventions.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/CodingConventions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Contributing.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Contributing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/InitialSetup.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/InitialSetup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/QuickStart.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/QuickStart",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/ReleaseProcess.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/ReleaseProcess",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/SampleApplications.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/SampleApplications",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/RayPins.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/RayPins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/SpacePin.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/SpacePin",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/Vehicle.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/Vehicle",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/WLT_ASA_Sample.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/WLT_ASA_Sample",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/WLT_ASA_Software.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/WLT_ASA_Software",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Samples/WorldLockedPhysicsSample.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Samples/WorldLockedPhysicsSample",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Tools.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Tools",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/Troubleshooting.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/Troubleshooting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/TroubleshootingAdvanced.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/TroubleshootingAdvanced",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/UsingWLT/AlignMyCoordinates.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/UsingWLT/AlignMyCoordinates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/UsingWLT/BeforeGettingStarted.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/UsingWLT/BeforeGettingStarted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/UsingWLT/JustWorldLock.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/UsingWLT/JustWorldLock",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/UsingWLT/LossOfTracking.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/UsingWLT/LossOfTracking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/UsingWLT/PersistenceTricks.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/UsingWLT/PersistenceTricks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/WLTviaMRFeatureTool.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/WLTviaMRFeatureTool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/WLT_ASA.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/WLT_ASA",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/WorldLockingContext.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/WorldLockingContext",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos/XRSDK.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos/XRSDK",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/HowTos.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/HowTos",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/IntroFAQ.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/IntroFAQ",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/Documentation/Overview.md",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/Documentation/Overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "world-locking-tools/index.yml",
+      "redirect_url": "/previous-versions/mixed-reality/world-locking-tools/index",
+      "redirect_document_id": false
+    }
+  ]
+}
