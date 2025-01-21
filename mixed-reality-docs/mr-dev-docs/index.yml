@@ -197,10 +197,6 @@ tools:
 #           links:
 #             - text: Cloud Services overview
 #               url: develop/mixed-reality-cloud-services.md
-#             - text: Jump into Azure Spatial Anchors
-#               url: /azure/spatial-anchors/
-#             - text: Azure Spatial Anchors tutorials
-#               url: develop/unity/tutorials/mr-learning-asa-01.md
 #             - text: Develop with Azure Remote Rendering 
 #               url: /azure/remote-rendering/
 #             - text: Azure Remote Rendering Tutorials

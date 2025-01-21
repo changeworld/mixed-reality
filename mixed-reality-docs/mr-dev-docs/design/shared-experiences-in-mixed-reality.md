@@ -132,12 +132,6 @@ Depending on your application and scenario, there will be various requirements t
 
 The key to shared experiences is having multiple users seeing the same holograms in the world on their own device, frequently done by sharing anchors to align coordinates across devices.
 
-To share anchors, use the [Azure Spatial Anchors](/azure/spatial-anchors):
-
-* First the user places the hologram.
-* App creates a [spatial anchor](spatial-anchors.md), to pin that hologram precisely in the world.
-* The anchors can be shared to HoloLens, iOS, and Android devices via [Azure Spatial Anchors](/azure/spatial-anchors/).
-
 With a shared spatial anchor, the app on each device now has a [common coordinate system](coordinate-systems.md) in which they can place content. Now the app can ensure to position and orient the hologram at the same location.
 
 On HoloLens devices, you can also share anchors offline from one device to another.  Use the links below to decide what's best for your application.
@@ -148,7 +142,7 @@ There are various service and technology options available to help build multi-u
 
 ## Shared static holograms (no interactions)
 
-Leverage [Azure Spatial Anchors](/azure/spatial-anchors/) in your app.  Enabling and sharing spatial anchors across devices allows you to create an application where users see holograms in the same place at the same time.  Additional syncing across devices is needed to enable users to interact with holograms and see movements or state updates of holograms.
+Enabling and sharing spatial anchors across devices allows you to create an application where users see holograms in the same place at the same time.  Additional syncing across devices is needed to enable users to interact with holograms and see movements or state updates of holograms.
 
 ## Share first person perspective
 
@@ -156,7 +150,7 @@ Leverage built-in Miracast support for local users when you have a supported Mir
 
 ## Multi-user collaborative experience
 <!--Unity Note-->
-Start with our [multi-user learning tutorial](../develop/unity/tutorials/mr-learning-sharing-01.md), which leverages [Azure Spatial Anchors](/azure/spatial-anchors/) for local users and [Photon SDK](https://www.photonengine.com/PUN) for syncing the content/state in the scene. Create locally collaborative applications where each user has his/her own perspective on the holograms in the scene and can each fully interact with the holograms.  Updates are provided across all devices and interaction conflict management is handled by Photon.
+Start with our [multi-user learning tutorial](../develop/unity/tutorials/mr-learning-sharing-01.md), which leverages [Photon SDK](https://www.photonengine.com/PUN) for syncing the content/state in the scene. Create locally collaborative applications where each user has his/her own perspective on the holograms in the scene and can each fully interact with the holograms.  Updates are provided across all devices and interaction conflict management is handled by Photon.
 
 > [!NOTE]
 > Please note that [Photon](https://www.photonengine.com/) is a non-Microsoft product, so a billing relationship with Photon may be required to productize and scale for higher usage.
@@ -169,6 +163,5 @@ Different scenario or desire to use a different tech/service? Provide feedback a
 
 ## See also
 
-* [Azure Spatial Anchors](/azure/spatial-anchors)
 * [Shared spatial anchors in DirectX](../develop/advanced-concepts/shared-spatial-anchors-in-directx.md)
 * [Shared experiences in Unity](../develop/unity/shared-experiences-in-unity.md)
