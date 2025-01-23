@@ -5,7 +5,7 @@ author: AMollis
 ms.author: amollis
 ms.date: 03/24/2022
 ms.topic: article
-keywords: mixed reality, unity, tutorial, hololens, multi-user capabilities, Photon, MRTK, mixed reality toolkit, UWP, Azure spatial anchors
+keywords: mixed reality, unity, tutorial, hololens, multi-user capabilities, Photon, MRTK, mixed reality toolkit, UWP
 ms.localizationpriority: high
 ---
 

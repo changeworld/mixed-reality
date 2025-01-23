@@ -23,7 +23,6 @@ If you use the following packages in your project, you will need to ensure that 
 * MRTK: version 2.7.2 or later
 * AR Foundation: version 4.1.1 or later
 * Universal Render Pipeline (URP): version 10.5.1 or later
-* Azure Spatial Anchors: version 2.10 or later
 * Azure Remote Rendering: version 1.0.15 or later
 
 > [!NOTE]
@@ -35,13 +34,8 @@ Microsoft doesn't recommend using the Windows XR plugin for any new projects in 
 
 However, if you're using Unity 2019 and you need AR Foundation 2.0 for compatibility with ARCore/ARKit devices, this plugin enables that support.
 
-> [!IMPORTANT]
-> Using this plugin in Unity 2019 is not compatible with Azure Spatial Anchors.
-
 # [Legacy XR](#tab/legacy)
 
 If you're still on **Unity 2019** or earlier, Microsoft recommends using the **Legacy Built-in XR support**.
-
-While the Windows XR plugin is functional on Unity 2019, it's not recommended because this plugin is not compatible with Azure Spatial Anchors on Unity 2019.
 
 If you're starting a new project, we recommend [installing Unity 2020 instead](../../choosing-unity-version.md) and using the Mixed Reality OpenXR plugin.

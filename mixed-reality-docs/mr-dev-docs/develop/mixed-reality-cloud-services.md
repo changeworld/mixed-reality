@@ -12,7 +12,7 @@ keywords: Mixed Reality, develop, development, HoloLens, cloud services, Azure, 
 
 # Azure Mixed Reality cloud services overview
 
-![ Azure Spatial Anchors image](../design/images/AzureSpatialAnchors.jpg)
+![ HL2 shared experience image](../design/images/HL2SharedExperience.jpg)
 
 Unlock what every human is an expert at—the three-dimensional, physical world around us—with Azure mixed reality services. Help people create, learn, and collaborate more effectively by capturing and surfacing digital information within the context of their work and world. Bring 3D to mobile devices, headsets, and other untethered devices. Using Azure, help ensure that your most sensitive information is protected.
 

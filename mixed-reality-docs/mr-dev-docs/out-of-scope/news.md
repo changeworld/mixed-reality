@@ -30,7 +30,8 @@ As promised, we are excited to share more mixed reality goodness with you! We’
 </td></td><td>May 2019</td><td> <ul><li><a href="/windows/mixed-reality/mrtk-porting-guide">Getting your existing application ready for HoloLens 2</a></li><a href=/windows/mixed-reality/mrtk-unity/updates-deployment/htk-to-mrtk-porting-guide>HoloToolKit to MRTK APIs</a></td>
 </tr>
 <tr>
-<td>Monthly open source developer modules (Tutorials/Sample apps)</td><td>June 2019</td><td> <ul><li><a href="/windows/mixed-reality/mrlearning-base-ch1">MR learning base module</a></li><a href="/windows/mixed-reality/mrlearning-asa-ch1">Azure Spatial Anchors tutorials</a></li><a href="/windows/mixed-reality/mrlearning-speechsdk-ch1">Azure Speech Services tutorials</a></li><a href="/windows/mixed-reality/mrlearning-sharing(photon)-ch1">Multi-user capabilities tutorials</a></td>
+<td>Monthly open source developer modules (Tutorials/Sample apps)</td><td>June 2019</td><td> <ul><li><a href="/windows/mixed-reality/mrlearning-base-ch1">MR learning base module</a></li>
+<li><a href="/windows/mixed-reality/mrlearning-speechsdk-ch1">Azure Speech Services tutorials</a></li><li><a href="/windows/mixed-reality/mrlearning-sharing(photon)-ch1">Multi-user capabilities tutorials</a></td>
 </tr>
 <tr>
 <td>MRTK for HoloLens 2</td><td>October 2019</td><td> <ul><li><a href=/windows/mixed-reality/mrtk-unity>MRTK docs</a></li><a href=https://github.com/Microsoft/MixedRealityToolkit-Unity/releases>MRTK release 2.1.0</a><li><a href="/windows/mixed-reality/mrtk-getting-started">Getting started with MRTK v2</a></td>
