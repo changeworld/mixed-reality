@@ -226,10 +226,6 @@ Azure-based onsite and remote management can help your business be data-driven, 
 * LBE Player Preference Heatmap
 * LBE Reservation and Booking System
 
-### I'm developing a spatial MMOG to deploy over a massive footprint. Any services that help me manage my content and object persistence?
-
-Azure Spatial Anchors is a new Mixed Reality service that enables multi-user, spatially aware mixed reality experiences across HoloLens, iOS, and Android devices. Learn more about [Azure Spatial Anchors](https://azure.microsoft.com/services/spatial-anchors/).
-
 ## Support and community
 
 We have a few helpful resources to help you engage with subject matter experts on our team, get troubleshooting support, and contribute to the broader mixed reality dev community.

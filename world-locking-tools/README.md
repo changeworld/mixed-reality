@@ -1,0 +1,1 @@
+Content about World Locking Tools has been archived and is now located at [https://learn.microsoft.com/previous-versions/mixed-reality/world-locking-tools/](https://learn.microsoft.com/previous-versions/mixed-reality/world-locking-tools/).
