@@ -14,7 +14,7 @@ keywords: Windows Mixed Reality, test, Mixed Reality Toolkit, MRTK version 2, MR
 ![MRTK banner image](../../design/images/MRTK_UX_Hero.png)
 
 > [!IMPORTANT]
-Microsoft & Unreal have discontinued support for the Unreal Engine for HoloLens 2. Customers can continue using Unreal Engine to develop applications for HoloLens 2, but support has been discontinued (no bug fixes, content updates, or technical support).
+> Microsoft & Unreal have discontinued support for the Unreal Engine for HoloLens 2. Customers can continue using Unreal Engine to develop applications for HoloLens 2, but support has been discontinued (no bug fixes, content updates, or technical support).
 > * Existing applications continue to run on the last version of Unreal 4.
 > * Applications for HoloLens 2 can alternatively be **[developed with Unity](../unity/unity-development-overview.md)** (we recommend developers use Unity 2022 and MRTK 2.8).
 
