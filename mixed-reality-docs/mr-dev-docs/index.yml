@@ -10,11 +10,10 @@ metadata:
   description: Explore the expanding world of Mixed Reality applications with the Mixed Reality Toolkit (MRTK), Windows Mixed Reality, Unity, Unreal, and more for HoloLens and Windows Immersive Headsets. # Required; article description that is displayed in search results. < 160 chars.
   services: service
   ms.service: azure-storage
-  ms.subservice: subservice # Optional; Remove if no subservice is used.
   ms.topic: hub-page # Required
   ms.collection: collection # Optional; Remove if no collection is used.
   author: hferrone #Required; your GitHub user alias, with correct capitalization.
-  ms.author: v-haferr #Required; microsoft alias of author; optional team alias.
+  ms.author: amollis #Required; microsoft alias of author; optional team alias.
   ms.date: 07/23/2020 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
