@@ -41,7 +41,6 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "ms.subservice": "mr-dev",
       "ms.service": "mixed-reality",
       "breadcrumb_path": "/windows/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": true,
