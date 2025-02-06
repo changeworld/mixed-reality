@@ -45,10 +45,6 @@ highlightedContent:
     - title: VR enthusiasts
       itemType: how-to-guide
       url: /windows/mixed-reality/enthusiast-guide/vr-journey
-    # Card
-    - title: Avatars for Microsoft Teams
-      itemType: whats-new
-      url: /mesh/overview
 
 # productDirectory section (optional)
 productDirectory:
@@ -76,8 +72,6 @@ productDirectory:
           text: What is MRTK?
         - url: develop/unity/unity-development-overview.md
           text: Get started with Unity
-        - url: develop/unreal/unreal-development-overview.md
-          text: Get started with Unreal
         - url: ./develop/features-and-samples.md
           text: Free sample apps
     # Card
@@ -108,18 +102,6 @@ conceptualContent:
         text: See more
 
     # Card
-    - title: Unreal 
-      summary: Build, customize, and deploy applications in Unreal with the Mixed Reality Toolkit SDK.
-      links:
-        - url: develop/unreal/unreal-development-overview.md
-          itemType: overview
-          text: Unreal development overview
-      # footerLink (optional)
-      footerLink:
-        url: develop/unreal/unreal-development-overview.md
-        text: See more
-
-    # Card
     - title: Native
       summary: Construct native holographic experiences with OpenXR, WinRT, and DirectX.
       links:
@@ -141,10 +123,6 @@ tools:
       # imageSrc should be square in ratio with no whitespace
       imageSrc: images/Final_mrtk-small_logo.png
       url: /windows/mixed-reality/mrtk-unity
-    # Card
-    - title: MRTK for Unreal 
-      imageSrc: images/Final_mrtk-small_logo.png
-      url: https://github.com/microsoft/MixedRealityToolkit-Unreal
     # Card
     - title: Windows XR Plugin for Unity 
       imageSrc: images/icon-plugin.png

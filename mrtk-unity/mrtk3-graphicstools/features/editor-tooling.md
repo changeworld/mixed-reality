@@ -65,6 +65,27 @@ For example, texel density is too high on the left cube and a bit too low on the
 
 ![Texel density comparison](images/EditorTooling/MipMapDebug.jpg)
 
+### Texture combiner
+
+To improve parity with the Unity Standard shader per pixel metallic, smoothness, emissive, and occlusion values can all be controlled via [channel packing](http://wiki.polycount.com/wiki/ChannelPacking). For example:
+
+![channel map example](images/EditorTooling/MRTK_ChannelMap.gif)
+
+When you use channel packing, you only have to sample and load one texture into memory instead of four separate ones. When you write your texture maps in a program like Substance or Photoshop, you can hand pack them like the following:
+
+| Channel | Property             |
+|---------|----------------------|
+| Red     | Metallic             |
+| Green   | Occlusion            |
+| Blue    | Emission (Greyscale) |
+| Alpha   | Smoothness           |
+
+Or, you can use the MRTK Texture Combiner Tool. To open the tool, select: **Windows -> Graphics Tools -> Texture Combiner** which will open the below window:
+
+![texture combiner example](images/EditorTooling/MRTK_TextureCombiner.jpg)
+
+This window can be automatically filled out by selecting a Unity Standard shader and clicking "Autopopulate from Standard Material." Or, you can manually specify a texture (or constant value) per red, green, blue, or alpha channel. The texture combination is GPU accelerated and does not require the input texture to be CPU accessible.
+
 ### Show and hide samples
 
 When opening the `MRGTUnityProject` in Unity. The *Samples* folder won't be visible in the `MRTK Graphics Tools` package by default. To show the samples select **Window > Graphics Tools > Show Samples** from the file menu bar.
